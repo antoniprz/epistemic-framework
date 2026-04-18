@@ -127,11 +127,11 @@ Utiliza a **engenharia reversa** a partir do sucesso tecnológico para construir
 
 ---
 
-## 💎 O Axioma Fundacional
-
-Este framework se baseia em uma única evidência inegável: **Você está lendo este texto em um dispositivo eletrônico que funciona.**
-
-Para que este dispositivo opere, milhares de princípios científicos e leis físicas devem ser verdadeiros simultaneamente com precisão extrema. Se esses fundamentos fossem falsos, este dispositivo jamais poderia ter existido. Usamos este sucesso tecnológico como âncora para desmontar o relativismo linguístico.
+💎 O Axioma Fundacional
+Este framework se baseia em uma única evidência inegável: Você está lendo este texto em um dispositivo eletrônico que funciona.
+Para que este dispositivo opere, milhares de princípios científicos e leis físicas devem ser simultaneamente verdadeiros com precisão extrema. Se esses fundamentos fossem falsos, este dispositivo jamais poderia ter existido. Usamos este sucesso tecnológico como âncora para desmontar o relativismo linguístico.
+Isso nos leva ao critério de irreversibilidade epistêmica por domínio: quando o conhecimento se materializa em tecnologia funcional, não apenas não poderia ter sido falso no passado — também não poderá ser demonstrado falso no futuro dentro desse domínio. Se fosse demonstrado falso, a tecnologia que o instancia teria que retroativamente parar de funcionar, o que é impossível.
+Einstein não demonstrou que Newton estava errado — delimitou seu domínio e o estendeu. A mecânica newtoniana continua sendo verdadeira onde sempre foi. O GPS usa relatividade geral e mecânica clássica simultaneamente sem contradição. O conhecimento científico não desmorona — ele se estratifica.
 
 ---
 

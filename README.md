@@ -118,11 +118,12 @@ It uses **reverse engineering** from technological success to build operational 
 
 ---
 
-## 💎 The Foundational Axiom
 
-This framework rests on a single undeniable piece of evidence: **You are reading this text on an electronic device that works.**
-
+💎 The Foundational Axiom
+This framework rests on a single undeniable piece of evidence: You are reading this text on an electronic device that works.
 For this device to operate, thousands of scientific principles and physical laws must be simultaneously true with extreme precision. If these foundations were false, this device could never have existed. We use this technological success as an anchor to dismantle linguistic relativism.
+This leads us to the criterion of epistemic irreversibility by domain: when knowledge becomes materialized in functional technology, it not only could not have been false in the past — it cannot be proven false in the future within that domain either. If it were proven false, the technology that instantiates it would have to retroactively stop working, which is impossible.
+Einstein did not prove Newton wrong — he defined the boundaries of his domain and extended them. Newtonian mechanics remains true where it always was. GPS uses general relativity and classical mechanics simultaneously without contradiction. Scientific knowledge doesn't collapse — it stratifies.
 
 ---
 
