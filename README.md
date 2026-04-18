@@ -119,7 +119,8 @@ It uses **reverse engineering** from technological success to build operational 
 ---
 
 
-💎 The Foundational Axiom
+## 💎 The Foundational Axiom
+
 This framework rests on a single undeniable piece of evidence: You are reading this text on an electronic device that works.
 
 For this device to operate, thousands of scientific principles and physical laws must be simultaneously true with extreme precision. If these foundations were false, this device could never have existed. We use this technological success as an anchor to dismantle linguistic relativism.
