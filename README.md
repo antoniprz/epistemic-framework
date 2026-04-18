@@ -1,6 +1,6 @@
 # The Epistemic Framework: Reality, Language, and Knowledge (v1.0)
 
-> **A diagnostic toolkit for classifying terms, evaluating arguments, and distinguishing functional knowledge from social fiction.**
+> **A diagnostic toolkit for classifying terms, evaluating arguments, and distinguishing functional knowledge from opnion.**
 
 ## 🎯 Purpose
 This is a **meta-language** framework. Its function is not to propose a "new truth," but to provide a diagnostic infrastructure to evaluate the structures others use to make claims. 
