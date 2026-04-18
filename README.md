@@ -33,6 +33,6 @@ This is an **Open Source** project. We are looking for collaborators for:
 When collaborating, please use our **Issue Templates** to identify which layer (C0-C5) the issue pertains to.
 
 ## 🌍 Language Support
-* **English** (Primary) — [View Documentation](../en/README.md)
-* **Español** — [Ver Documentación](../es/README.md)
-* **Português** — [Ver Documentação](../pt/README.md)
+* **English** (Primary) — [View Documentation](./en/README.md)
+* **Español** — [Ver Documentación](./es/README.md)
+* **Português** — [Ver Documentação](./pt/README.md)
