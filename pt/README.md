@@ -22,6 +22,6 @@ O projeto está dividido em cinco pilares:
 5.  **Protocolo de Pré-debate:** Um método de 4 passos para eliminar a ambiguidade semântica antes do início de qualquer discussão.
 
 ## 🌍 Suporte a Idiomas
-* **English** (Primary) — [View Documentation](./en/README.md)
-* **Español** — [Ver Documentación](./es/README.md)
-* **Português** — [Ver Documentação](./pt/README.md)
+* **English** (Primary) — [View Documentation](../en/README.md)
+* **Español** — [Ver Documentación](../es/README.md)
+* **Português** — [Ver Documentação](../pt/README.md)
