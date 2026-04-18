@@ -22,6 +22,6 @@ The project is divided into five pillars:
 5.  **Pre-debate Protocol:** A 4-step method to eliminate semantic ambiguity before any discussion begins.
 
 ## 🌍 Language Support
-* **English** (Primary) — [View Documentation](./en/README.md)
-* **Español** — [Ver Documentación](./es/README.md)
-* **Português** — [Ver Documentação](./pt/README.md)
+- [English](./en/README.md) (Primary)
+- [Español](./es/README.md)
+- [Português](./pt/README.md)
