@@ -1,38 +1,27 @@
-# Parte 4 — Sistema de Tipos Ontológicos
+# The Epistemic Framework: Reality, Language, and Knowledge (v1.0)
 
-Para que una discusión sea productiva, cada término utilizado debe pasar por un "chequeo de tipos". Si intentamos realizar operaciones lógicas entre términos de tipos incompatibles (ej. tratar una ficción de C5 como un hecho de C1), el sistema colapsará en una falacia.
+> **A diagnostic toolkit for classifying terms, evaluating arguments, and distinguishing functional knowledge from social fiction.**
 
-## 4.1 Taxonomía de Referentes
-Clasificamos cada término según la naturaleza de aquello a lo que apunta en las capas (C0-C5):
+## 🎯 Purpose
+This is a **meta-language** framework. Its function is not to propose a "new truth," but to provide a diagnostic infrastructure to evaluate the structures others use to make claims. 
 
-| Tipo | Etiqueta | Descripción | Ejemplo |
-| :--- | :--- | :--- | :--- |
-| **RAW** | `v0` | El objeto en C0, antes de ser medido o nombrado. La "cosa en sí". | El espectro antes de Newton. |
-| **ACCESIBLE** | `v1` | Fenómenos de C1/C2 verificados por el Pipeline. Tienen poder predictivo. | La gravedad, el oxígeno. |
-| **CONVENCIÓN** | `v2` | Construcciones de C4/C5 con autores o consenso social. Son "correctas" pero no "verdaderas". | El dinero, el lenguaje, el PIB. |
-| **INDEFINIDO** | `v?` | Conceptos en proceso de validación o que aún no tienen suficiente data de C1. | Agujeros de gusano, conciencia. |
-| **DANGLING** | `v-err` | Punteros vacíos. Palabras que no tienen referente en ninguna capa o son circulares. | Destino, suerte, "el sistema" (como ente). |
+It uses **reverse engineering** from technological success to build operational definitions of Reality and Knowledge that are consistent with material evidence.
 
-## 4.2 La Regla de la Instancia vs. Clase
-Un error común es confundir una **clase** (una etiqueta de C4) con una **instancia** (un objeto en C1).
-* **Instancia (C1):** El perro que te mordió (un objeto físico con masa y comportamiento).
-* **Clase (C4):** "La peligrosidad canina" (una abstracción social).
-Operar sobre la clase como si fuera una instancia es un fallo de tipo que genera políticas públicas ineficientes y debates circulares.
+## 💎 The Foundational Axiom
+This framework rests on a single, undeniable piece of evidence: **You are reading this text on a functioning electronic device.**
 
-## 4.3 El Algoritmo de Etiquetado
-Antes de procesar un argumento, se debe someter cada sustantivo al siguiente test:
+For this device to operate, thousands of physical principles and laws must be true simultaneously with extreme precision. If those foundations were false, this device could never have existed. We use this technological success as an anchor to dismantle linguistic relativism.
 
-1.  **¿Tiene masa, energía o información medible?** -> Marcar como `v1`.
-2.  **¿Desaparecería si todos los humanos dejaran de creer en ello?** -> Marcar como `v2`.
-3.  **¿La definición depende exclusivamente de otras palabras sin tocar C1?** -> Marcar como `v-err`.
+## 🏗️ Core Structure
+The project is divided into five pillars:
 
-## 4.4 Colisión de Tipos (Type Mismatch)
-La mayoría de los conflictos sociales ocurren por una colisión de tipos no detectada.
-* **Error Tipo A:** Tratar un `v2` (Ficción social) como un `v1` (Realidad física). Ej: "La economía debe crecer por ley natural".
-* **Error Tipo B:** Intentar modificar un `v1` (Realidad física) mediante herramientas de `v2` (Retórica). Ej: "Decretamos que la gravedad es opresiva".
+1.  **Layered Ontology (C0-C5):** A map distinguishing Raw Reality (C0) from Formal Institutions (C5).
+2.  **Operational Epistemology:** Unifying "Truth" and "Knowledge" under the criterion of factual verification.
+3.  **Validation Pipeline:** A 8-filter sequence for information to be classified as "Knowledge."
+4.  **Ontological Type System:** Tools to label referents as RAW, ACCESSIBLE, FICTION, INDEFINITE, or DANGLING.
+5.  **Pre-debate Protocol:** A 4-step method to eliminate semantic ambiguity before any discussion begins.
 
-## 4.5 El Estatus "Dangling" (Puntero Suelto)
-Un término `v-err` es radiactivo para el conocimiento. Si una conversación incluye más de un 20% de punteros sueltos, el framework recomienda abortar la comunicación, ya que no se está intercambiando información, sino simplemente sincronizando estados emocionales (C3) sin anclaje.
-
----
-*Este sistema de tipos permite que el framework sea auditable: si un término cambia de tipo, debe haber un commit que justifique la nueva evidencia en C1.*
+## 🌍 Language Support
+- [English](./en/README.md) (Primary)
+- [Español](./es/README.md)
+- [Português](./pt/README.md)
