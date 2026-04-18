@@ -15,13 +15,24 @@ For this device to operate, thousands of physical principles and laws must be tr
 ## 🏗️ Core Structure
 The project is divided into five pillars:
 
-1.  **Layered Ontology (C0-C5):** A map distinguishing Raw Reality (C0) from Formal Institutions (C5).
-2.  **Operational Epistemology:** Unifying "Truth" and "Knowledge" under the criterion of factual verification.
-3.  **Validation Pipeline:** A 8-filter sequence for information to be classified as "Knowledge."
-4.  **Ontological Type System:** Tools to label referents as RAW, ACCESSIBLE, FICTION, INDEFINITE, or DANGLING.
-5.  **Pre-debate Protocol:** A 4-step method to eliminate semantic ambiguity before any discussion begins.
+* **Layered Ontology (C0-C5):** A map distinguishing Raw Reality (C0) from Formal Institutions (C5).
+* **Operational Epistemology:** Unifying "Truth" and "Knowledge" under the criterion of factual verification.
+* **Validation Pipeline:** A 8-filter sequence for information to be classified as "Knowledge."
+* **Ontological Type System:** Tools to label referents as RAW, ACCESSIBLE, FICTION, INDEFINITE, or DANGLING.
+* **Pre-debate Protocol:** A 4-step method to eliminate semantic ambiguity before any discussion begins.
+
+## 🚀 Project Status
+This framework is published as an **open hypothesis**. It does not claim a final status of truth it hasn't earned. Its validity is measured by its utility in diagnosing language confusion and predicting failures in social systems.
+
+## 🤝 How to Contribute
+This is an **Open Source** project. We are looking for collaborators for:
+* **Logical Bug Reports:** Detect inconsistencies in the hierarchy or category errors.
+* **Case Studies:** Apply the framework to specific domains (economics, law, biology).
+* **Translations:** Currently available in Spanish, English, and Portuguese.
+
+When collaborating, please use our **Issue Templates** to identify which layer (C0-C5) the issue pertains to.
 
 ## 🌍 Language Support
-* **English** (Primary) — [View Documentation](./en/README.md)
-* **Español** — [Ver Documentación](./es/README.md)
-* **Português** — [Ver Documentação](./pt/README.md)
+* **English** (Primary) — [View Documentation](../en/README.md)
+* **Español** — [Ver Documentación](../es/README.md)
+* **Português** — [Ver Documentação](../pt/README.md)

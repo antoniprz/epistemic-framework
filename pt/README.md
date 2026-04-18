@@ -15,13 +15,24 @@ Para que este dispositivo opere, milhares de princípios científicos e leis fí
 ## 🏗️ Estrutura Central
 O projeto está dividido em cinco pilares:
 
-1.  **Ontologia por Camadas (C0-C5):** Um mapa que distingue a Realidade Crua (C0) das Instituições Formais (C5).
-2.  **Epistemologia Operacional:** Unificando "Verdade" e "Conhecimento" sob o critério de verificação fática.
-3.  **Pipeline de Validação:** Uma sequência de 8 filtros para que a informação seja classificada como "Conhecimento".
-4.  **Sistema de Tipos Ontológicos:** Ferramentas para rotular referentes como RAW, ACCESSIBLE, FICTION, INDEFINITE ou DANGLING.
-5.  **Protocolo de Pré-debate:** Um método de 4 passos para eliminar a ambiguidade semântica antes do início de qualquer discussão.
+* **Ontologia por Camadas (C0-C5):** Um mapa que distingue a Realidade Crua (C0) das Instituições Formais (C5).
+* **Epistemologia Operacional:** Unificando "Verdade" e "Conhecimento" sob o critério de verificação fática.
+* **Pipeline de Validação:** Uma sequência de 8 filtros para que a informação seja classificada como "Conhecimento".
+* **Sistema de Tipos Ontológicos:** Ferramentas para rotular referentes como RAW, ACCESSIBLE, FICTION, INDEFINITE ou DANGLING.
+* **Protocolo de Pré-debate:** Um método de 4 passos para eliminar a ambiguidade semântica antes do início de qualquer discussão.
+
+## 🚀 Status do Projeto
+Este framework é publicado como uma **hipótese aberta**. Não reivindica um status de verdade final que não tenha conquistado. Sua validade é medida por sua utilidade em diagnosticar confusões de linguagem e prever falhas em sistemas sociais.
+
+## 🤝 Como Contribuir
+Este é um projeto **Open Source**. Buscamos colaboradores para:
+* **Relatos de Bugs Lógicos:** Detectar inconsistências na hierarquia ou erros de categoria.
+* **Casos de Estudo:** Aplicar o framework a domínios específicos (economia, direito, biologia).
+* **Traduções:** Atualmente disponível em espanhol, inglês e português.
+
+Ao colaborar, use nossos **Issue Templates** para identificar em qual camada (C0-C5) você detectou o problema.
 
 ## 🌍 Suporte a Idiomas
-* **English** (Primary) — [View Documentation](../en/README.md)
+* **English** (Principal) — [View Documentation](../en/README.md)
 * **Español** — [Ver Documentación](../es/README.md)
 * **Português** — [Ver Documentação](../pt/README.md)
