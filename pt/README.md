@@ -1,14 +1,7 @@
-Perfecto, tengo todo. Voy a integrarlo con la sección nueva al inicio — antes del Objetivo — porque el flujo más efectivo es: **mostrar primero, describir después.** El lector ve el framework funcionando antes de leer qué es.
 
-Capas corregidas para los ejemplos:
-- Vibración / distancia física → **C1** (Realidade Mensurável)
-- Experiencia auditiva / percepción → **C2** (Percepção)
-- Convenciones, notación, símbolos → **C5** (Instituições Formais)
-
----
 
 # O Framework Epistêmico: Realidade, Linguagem e Conhecimento (v1.0)
-> **Um kit de ferramentas diagnóstico para classificar termos, avaliar argumentos e distinguir conhecimento funcional de ficção social.**
+> **Um kit de ferramentas diagnóstico para classificar termos, avaliar argumentos e distinguir entre conhecimento funcional, opiniões, hipóteses e convenções sociais .**
 
 ---
 
