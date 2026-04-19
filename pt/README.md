@@ -9,7 +9,7 @@
 
 Antes de entrar em camadas ontológicas, tipos de termos e pipelines de validação, vale a pena ver o framework em ação.
 
-Os três casos abaixo são debates filosóficos clássicos. Todos têm algo em comum: **ficaram séculos sem resolução — não porque a realidade seja ambígua, mas porque as perguntas estão mal formuladas.** O framework não os resolve com mais argumentos — ele os *dissolve* mostrando exatamente onde a pergunta quebrou.
+Os três casos abaixo são debates filosóficos clássicos. Todos têm algo em comum: **Não tem uma resolução clara e definitiva — não porque a realidade seja ambígua, mas porque as perguntas estão mal formuladas.** O framework não os resolve com mais argumentos — ele os *dissolve* mostrando exatamente onde a pergunta quebrou.
 
 ---
 
@@ -120,7 +120,7 @@ Utiliza a **engenharia reversa** a partir do sucesso tecnológico para construir
 
 ---
 
-💎 O Axioma Fundacional
+## 💎 O Axioma Fundacional
 Este framework se baseia em uma única evidência inegável: Você está lendo este texto em um dispositivo eletrônico que funciona.
 Para que este dispositivo opere, milhares de princípios científicos e leis físicas devem ser simultaneamente verdadeiros com precisão extrema. Se esses fundamentos fossem falsos, este dispositivo jamais poderia ter existido. Usamos este sucesso tecnológico como âncora para desmontar o relativismo linguístico.
 Isso nos leva ao critério de irreversibilidade epistêmica por domínio: quando o conhecimento se materializa em tecnologia funcional, não apenas não poderia ter sido falso no passado — também não poderá ser demonstrado falso no futuro dentro desse domínio. Se fosse demonstrado falso, a tecnologia que o instancia teria que retroativamente parar de funcionar, o que é impossível.

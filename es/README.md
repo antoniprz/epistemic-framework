@@ -1,5 +1,5 @@
 # El Framework Epistémico: Realidad, Lenguaje y Conocimiento (v1.0)
-> **Un kit de herramientas diagnóstico para clasificar términos, evaluar argumentos y distinguir conocimiento funcional de ficción social.**
+> **Un kit de herramientas diagnóstico para clasificar términos, evaluar argumentos y distinguir conocimiento funcional opiniones,hipotesis o convenciones sociales.**
 
 ---
 
@@ -7,7 +7,7 @@
 
 Antes de entrar en capas ontológicas, tipos de términos y pipelines de validación, vale la pena ver el framework en acción.
 
-Los tres casos que siguen son debates filosóficos clásicos. Todos tienen algo en común: **llevan siglos sin resolverse — no porque la realidad sea ambigua, sino porque las preguntas están mal formadas.** El framework no los resuelve con más argumentos — los *disuelve* mostrando exactamente dónde se rompió la pregunta.
+Los tres casos que siguen son debates filosóficos clásicos. Todos tienen algo en común: **llevan timepo si resolverse de una forma definitiva — no porque la realidad sea ambigua, sino porque las preguntas están mal formadas.** El framework no los resuelve con más argumentos — los *disuelve* mostrando exactamente dónde se rompió la pregunta.
 
 ---
 
@@ -118,7 +118,7 @@ Utiliza la **ingeniería inversa** a partir del éxito tecnológico para constru
 
 ---
 
-💎 El Axioma Fundacional
+## 💎 El Axioma Fundacional
 Este framework se basa en una única evidencia innegable: Estás leyendo este texto en un dispositivo electrónico que funciona.
 Para que este dispositivo opere, miles de principios científicos y leyes físicas deben ser verdaderos simultáneamente con precisión extrema. Si estos fundamentos fueran falsos, este dispositivo jamás habría podido existir. Usamos este éxito tecnológico como ancla para desmantelar el relativismo lingüístico.
 Esto nos lleva al criterio de irreversibilidad epistémica por dominio: cuando el conocimiento se materializa en tecnología funcional, no solo no pudo haber sido falso en el pasado — tampoco podrá demostrarse falso en el futuro dentro de ese dominio. Si se demostrara falso, la tecnología que lo instancia dejaría de funcionar retroactivamente, lo cual es imposible.
