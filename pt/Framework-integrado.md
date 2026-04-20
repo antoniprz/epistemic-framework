@@ -334,7 +334,7 @@ Um veredito que apenas diz "isso está errado" é tão epistemicamente pobre qua
 
 ---
 
-## Aplicação ao Problema Difícil da Consciência
+# Aplicação ao Problema Difícil da Consciência
 
 **Input:** _"Podemos explicar como o cérebro processa sinais (problemas 'fáceis'), mas não temos uma explicação lógica de por que esse processamento é sentido como algo. Como surge a experiência subjetiva (qualia) a partir da matéria inerte?"_
 
